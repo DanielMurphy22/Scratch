@@ -115,7 +115,8 @@ The Acting Chair raised the fact that the Mantid governance document is overdue 
 
 ## Next Agenda
 
-- Date and Planning for MantidPlot deprecation (user/scientist feedback)
-- Update on Advisory Board Status
-- User and Developer Meeting (DEV = virtual OR attaching to NOBUGS, possible dates for User meeting between Jan-April 2021)
+- Date and review of planning for MantidPlot deprecation
 - Review PMB / Mantid Project governance documents (all should look through beforehand)
+- Update on Advisory Board Status
+- Fix dates for User meeting in the period January-April 2021, and Developer meetings
+
